@@ -1,0 +1,1344 @@
+2024-09-15 01:52:58,615 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:52:58,616 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:52:58,616 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:52:58,647 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:52:58,647 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:52:58,748 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:52:58,748 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:53:48,999 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:53:48,999 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:53:48,999 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:53:49,007 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:53:49,007 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:53:49,045 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:53:49,046 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:53:49,888 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:53:49,888 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:53:49,888 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:53:49,888 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:53:49,888 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:53:49,888 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:53:49,910 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:53:49,910 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:53:49,910 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:53:49,910 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:53:49,936 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:53:49,936 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:53:49,937 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:53:49,937 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:54:24,407 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:54:24,412 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:54:24,412 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:54:24,424 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:54:24,424 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:54:24,451 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:54:24,452 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:54:25,316 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:54:25,316 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:54:25,316 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:54:25,316 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:54:25,316 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:54:25,316 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:54:25,325 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:54:25,325 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:54:25,325 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:54:25,325 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:54:25,351 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:54:25,351 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:54:25,352 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:54:25,352 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:13,947 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:13,948 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:13,948 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:13,959 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:13,959 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:13,990 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:13,990 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:17,943 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:17,943 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:17,943 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:17,949 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:17,949 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:17,978 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:17,979 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:18,725 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:18,725 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:18,726 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:18,726 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:18,726 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:18,726 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:18,736 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:18,736 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:18,737 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:18,737 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:18,765 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:18,765 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:18,765 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:18,765 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:57,684 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:57,685 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:57,685 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:57,700 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:57,700 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:57,727 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:57,727 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:58,597 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:58,597 - GraphRAG - INFO - Starting to build graph
+2024-09-15 01:57:58,598 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:58,598 - GraphRAG - INFO - Loading existing graph
+2024-09-15 01:57:58,598 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:58,598 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 01:57:58,609 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:58,609 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 01:57:58,609 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:58,609 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 01:57:58,639 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:58,639 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 01:57:58,639 - GraphRAG - INFO - Graph building completed
+2024-09-15 01:57:58,639 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:00:45,999 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:00:46,000 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:00:46,000 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:00:46,024 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:00:46,025 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:00:46,052 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:00:46,052 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:00:46,883 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:00:46,883 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:00:46,883 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:00:46,883 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:00:46,883 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:00:46,883 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:00:46,973 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:00:46,973 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:00:46,973 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:00:46,973 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:00:46,999 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:00:46,999 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:00:46,999 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:00:46,999 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:01:54,563 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:01:54,563 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:01:54,563 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:01:54,582 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:01:54,582 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:01:54,617 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:01:54,618 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:01:55,505 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:01:55,505 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:01:55,505 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:01:55,505 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:01:55,505 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:01:55,505 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:01:55,635 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:01:55,635 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:01:55,635 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:01:55,635 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:01:55,671 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:01:55,671 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:01:55,671 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:01:55,671 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:20,038 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:20,040 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:20,040 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:20,055 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:20,055 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:20,106 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:20,106 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:20,997 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:20,997 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:20,998 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:20,998 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:20,998 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:20,998 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:21,183 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:21,183 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:21,183 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:21,183 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:21,210 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:21,210 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:21,210 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:21,210 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:44,689 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:44,689 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:44,689 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:44,713 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:44,713 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:44,747 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:44,747 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:45,573 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:45,573 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:02:45,574 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:45,574 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:02:45,574 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:45,574 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:02:45,676 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:45,676 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:02:45,676 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:45,676 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:02:45,702 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:45,702 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:02:45,702 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:02:45,702 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:04:57,935 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:04:57,935 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:04:57,936 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:04:57,946 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:04:57,946 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:04:57,974 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:04:57,974 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:04:58,769 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:04:58,769 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:04:58,769 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:04:58,769 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:04:58,769 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:04:58,769 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:04:58,856 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:04:58,856 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:04:58,856 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:04:58,856 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:04:58,881 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:04:58,881 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:04:58,881 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:04:58,881 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:06:28,734 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:06:28,734 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:06:28,734 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:06:28,752 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:06:28,752 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:06:28,825 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:06:28,826 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:06:29,776 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:06:29,776 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:06:29,776 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:06:29,776 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:06:29,776 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:06:29,776 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:06:29,919 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:06:29,919 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:06:29,919 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:06:29,919 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:06:29,945 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:06:29,945 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:06:29,946 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:06:29,946 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:08:38,249 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:08:38,249 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:08:38,249 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:08:38,259 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:08:38,259 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:08:38,298 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:08:38,298 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:08:39,044 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:08:39,044 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:08:39,044 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:08:39,044 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:08:39,044 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:08:39,044 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:08:39,154 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:08:39,154 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:08:39,154 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:08:39,154 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:08:39,180 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:08:39,180 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:08:39,180 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:08:39,180 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:10:07,738 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:10:07,739 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:10:07,739 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:10:07,749 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:10:07,749 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:10:07,776 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:10:07,777 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:10:08,614 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:10:08,614 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:10:08,614 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:10:08,614 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:10:08,614 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:10:08,614 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:10:08,781 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:10:08,781 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:10:08,781 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:10:08,781 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:10:08,806 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:10:08,806 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:10:08,806 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:10:08,806 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:10:28,135 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:10:28,135 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:10:29,568 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:10:29,568 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:10:29,568 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:19,060 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:19,060 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:19,060 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:19,086 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:19,086 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:19,121 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:19,122 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:20,022 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:20,022 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:20,023 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:20,023 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:20,023 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:20,023 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:20,107 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:20,107 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:20,107 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:20,107 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:20,136 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:20,136 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:20,136 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:20,136 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:29,854 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:29,854 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:29,854 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:29,863 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:29,863 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:29,889 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:29,890 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:30,705 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:30,705 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:11:30,706 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:30,706 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:11:30,706 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:30,706 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:11:30,802 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:30,802 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:11:30,802 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:30,802 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:11:30,837 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:30,837 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:11:30,838 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:30,838 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:11:40,499 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:11:40,499 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:11:41,259 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:11:41,259 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:11:41,259 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:27,003 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:12:27,003 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:12:27,003 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:12:27,018 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:12:27,019 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:12:27,046 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:12:27,047 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:12:27,945 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:12:27,945 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:12:27,945 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:12:27,945 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:12:27,945 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:12:27,945 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:12:28,027 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:12:28,027 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:12:28,027 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:12:28,027 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:12:28,065 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:12:28,065 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:12:28,065 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:12:28,065 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:12:31,987 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:12:31,987 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:12:32,623 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:12:32,623 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:12:32,624 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,624 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,626 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,626 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:12:32,627 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:10,744 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:10,744 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:10,744 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:10,756 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:10,756 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:10,788 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:10,788 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:12,080 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:12,080 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:12,113 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:12,113 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:12,114 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:12,114 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:12,554 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:12,554 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:12,554 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:12,554 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:12,625 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:12,625 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:12,626 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:12,626 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:16,970 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:16,970 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:16,970 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:16,977 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:16,977 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:17,014 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:17,014 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:17,815 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:17,815 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:17:17,815 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:17,815 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:17:17,815 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:17,815 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:17:17,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:17,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:17:17,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:17,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:17:17,851 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:17,851 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:17:17,852 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:17,852 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:17:24,787 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:17:24,787 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:17:25,574 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:17:25,574 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:17:25,575 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:29,521 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:29,521 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:29,522 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:29,541 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:29,541 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:29,576 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:29,576 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:30,503 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:30,503 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:30,503 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:30,503 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:30,503 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:30,503 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:30,671 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:30,671 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:30,671 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:30,671 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:30,708 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:30,708 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:30,709 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:30,709 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:34,479 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:34,479 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:34,479 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:34,487 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:34,487 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:34,516 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:34,516 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:35,358 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:35,358 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:18:35,358 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:35,358 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:18:35,358 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:35,358 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:18:35,467 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:35,467 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:18:35,467 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:35,467 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:18:35,494 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:35,494 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:18:35,495 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:35,495 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:18:43,799 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:18:43,799 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Um, so what are your thoughts on Tesla?
+2024-09-15 02:18:44,426 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:18:44,426 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:18:44,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:19:38,187 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:19:38,187 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:19:38,187 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:19:38,208 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:19:38,208 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:19:38,236 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:19:38,236 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:19:39,077 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:19:39,077 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:19:39,078 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:19:39,078 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:19:39,078 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:19:39,078 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:19:39,164 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:19:39,164 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:19:39,164 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:19:39,164 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:19:39,191 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:19:39,191 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:19:39,191 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:19:39,191 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:20:17,380 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, so what are you talking about Tesla?  I know, Apple.
+2024-09-15 02:20:17,380 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, so what are you talking about Tesla?  I know, Apple.
+2024-09-15 02:20:18,015 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:20:18,015 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:18,016 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:20:59,740 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Who would you see I rather invest in?
+2024-09-15 02:20:59,740 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Who would you see I rather invest in?
+2024-09-15 02:21:00,183 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:21:00,183 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:21:00,184 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,527 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  You think it's the best food stock to buy right now?
+2024-09-15 02:24:12,527 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  You think it's the best food stock to buy right now?
+2024-09-15 02:24:12,966 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:24:12,966 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:24:12,967 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:27:48,884 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:27:48,884 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:27:48,884 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:27:48,909 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:27:48,909 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:27:48,940 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:27:48,940 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:27:50,023 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:27:50,023 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:27:50,023 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:27:50,023 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:27:50,023 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:27:50,023 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:27:50,109 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:27:50,109 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:27:50,109 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:27:50,109 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:27:50,136 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:27:50,136 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:27:50,136 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:27:50,136 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:28:59,117 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:28:59,197 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:28:59,197 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:28:59,207 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:28:59,208 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:28:59,235 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:28:59,235 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:29:00,131 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:29:00,131 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:29:00,131 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:29:00,131 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:29:00,131 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:29:00,131 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:29:00,137 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:29:00,137 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:29:00,137 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:29:00,137 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:29:00,166 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:29:00,166 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:29:00,167 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:29:00,167 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:29:18,361 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:29:18,361 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:29:18,361 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:29:18,370 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:29:18,370 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:29:18,398 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:29:18,399 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:29:19,255 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:29:19,255 - GraphRAG - INFO - Starting to build graph
+2024-09-15 02:29:19,255 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:29:19,255 - GraphRAG - INFO - Loading existing graph
+2024-09-15 02:29:19,255 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:29:19,255 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 02:29:19,369 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:29:19,369 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 02:29:19,370 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:29:19,370 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 02:29:19,396 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:29:19,396 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 02:29:19,396 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:29:19,396 - GraphRAG - INFO - Graph building completed
+2024-09-15 02:34:32,334 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What's Tesla working on right now?
+2024-09-15 02:34:32,334 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What's Tesla working on right now?
+2024-09-15 02:34:33,353 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:34:33,353 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,353 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,354 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,354 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,354 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:34:33,354 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,088 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:35:56,088 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:35:56,570 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:35:56,570 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:35:56,570 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:35:56,571 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,571 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,571 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:35:56,571 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,100 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:38:01,100 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:38:01,395 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:38:01,395 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:38:01,396 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,396 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:01,397 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,558 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:38:44,558 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Should I be worried about Apple?
+2024-09-15 02:38:44,899 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:38:44,899 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:38:44,899 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:03,673 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  You can break down all the entire stock market.
+2024-09-15 02:40:03,673 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  You can break down all the entire stock market.
+2024-09-15 02:40:04,010 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:40:04,010 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:04,049 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,083 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Wait, who would you say is more prominent? Test not a lot more.
+2024-09-15 02:40:47,083 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Wait, who would you say is more prominent? Test not a lot more.
+2024-09-15 02:40:47,427 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:40:47,427 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:40:47,427 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:22,132 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: telsa sells
+2024-09-15 02:45:22,132 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: telsa sells
+2024-09-15 02:45:23,528 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:45:23,528 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:45:23,529 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,529 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:45:23,530 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,574 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: telsa sells
+2024-09-15 02:46:08,574 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: telsa sells
+2024-09-15 02:46:08,913 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:46:08,913 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,914 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,915 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,915 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,915 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:46:08,915 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:14,704 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What could potentially harm apple stock
+2024-09-15 02:47:14,704 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What could potentially harm apple stock
+2024-09-15 02:47:15,403 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:47:15,403 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:47:15,404 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,617 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  So, Tim about Starbucks, like how Starbucks doing right now, I guess, market-wise.
+2024-09-15 02:48:02,617 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  So, Tim about Starbucks, like how Starbucks doing right now, I guess, market-wise.
+2024-09-15 02:48:02,998 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:48:02,998 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:48:02,999 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,506 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Does any company have an impact on Nigeria?
+2024-09-15 02:52:29,506 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Does any company have an impact on Nigeria?
+2024-09-15 02:52:29,833 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:52:29,833 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:52:29,834 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,300 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Okay, so how's the apostolic doing?
+2024-09-15 02:54:56,300 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Okay, so how's the apostolic doing?
+2024-09-15 02:54:56,624 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:54:56,624 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 02:54:56,625 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 03:23:58,760 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:23:58,760 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:23:58,760 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:23:58,773 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:23:58,773 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:23:58,804 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:23:58,804 - GraphRAG - INFO - Graph building completed
+2024-09-15 03:23:59,716 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:23:59,716 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:23:59,717 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:23:59,717 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:23:59,717 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:23:59,717 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:23:59,722 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:23:59,722 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:23:59,722 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:23:59,722 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:23:59,748 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:23:59,748 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:23:59,748 - GraphRAG - INFO - Graph building completed
+2024-09-15 03:23:59,748 - GraphRAG - INFO - Graph building completed
+2024-09-15 03:28:11,670 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Would you say apple is done better than Tesla?
+2024-09-15 03:28:11,670 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Would you say apple is done better than Tesla?
+2024-09-15 03:28:12,333 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 03:28:12,333 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 03:28:12,334 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 03:53:44,697 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:53:44,698 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:53:44,698 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:53:44,709 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:53:44,709 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:53:44,766 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:53:44,767 - GraphRAG - INFO - Graph building completed
+2024-09-15 03:53:45,532 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:53:45,532 - GraphRAG - INFO - Starting to build graph
+2024-09-15 03:53:45,532 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:53:45,532 - GraphRAG - INFO - Loading existing graph
+2024-09-15 03:53:45,532 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:53:45,532 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 03:53:45,540 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:53:45,540 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 03:53:45,540 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:53:45,540 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 03:53:45,570 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:53:45,570 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 03:53:45,571 - GraphRAG - INFO - Graph building completed
+2024-09-15 03:53:45,571 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:21:17,609 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:21:17,609 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:21:17,609 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:21:17,622 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:21:17,622 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:21:17,650 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:21:17,650 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:21:18,450 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:21:18,450 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:21:18,451 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:21:18,451 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:21:18,451 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:21:18,451 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:21:18,456 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:21:18,456 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:21:18,456 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:21:18,456 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:21:18,482 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:21:18,482 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:21:18,483 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:21:18,483 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:29:01,675 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:29:01,675 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:29:01,675 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:29:01,688 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:29:01,688 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:29:01,720 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:29:01,720 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:29:02,511 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:29:02,511 - GraphRAG - INFO - Starting to build graph
+2024-09-15 04:29:02,511 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:29:02,511 - GraphRAG - INFO - Loading existing graph
+2024-09-15 04:29:02,511 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:29:02,511 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 04:29:02,517 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:29:02,517 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 04:29:02,517 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:29:02,517 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 04:29:02,543 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:29:02,543 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 04:29:02,543 - GraphRAG - INFO - Graph building completed
+2024-09-15 04:29:02,543 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:18:44,868 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:18:44,868 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:18:44,868 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:18:44,882 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:18:44,882 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:18:44,918 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:18:44,919 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:18:45,708 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:18:45,708 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:18:45,708 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:18:45,708 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:18:45,708 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:18:45,708 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:18:45,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:18:45,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:18:45,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:18:45,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:18:45,852 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:18:45,852 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:18:45,852 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:18:45,852 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:19:20,326 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:19:20,326 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:19:20,326 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:19:20,336 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:19:20,336 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:19:20,368 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:19:20,368 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:19:21,212 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:19:21,212 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:19:21,212 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:19:21,212 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:19:21,212 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:19:21,212 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:19:21,313 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:19:21,313 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:19:21,313 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:19:21,313 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:19:21,340 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:19:21,340 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:19:21,340 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:19:21,340 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:21:12,008 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:21:12,008 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:21:12,008 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:21:12,023 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:21:12,023 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:21:12,059 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:21:12,060 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:21:26,079 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:21:26,080 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:21:26,080 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:21:26,090 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:21:26,090 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:21:26,119 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:21:26,119 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:22:22,920 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:22:22,920 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:22:22,920 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:22:22,929 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:22:22,929 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:22:22,968 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:22:22,969 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:22:26,506 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:22:26,506 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:22:26,506 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:22:26,512 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:22:26,513 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:22:26,541 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:22:26,543 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:22:27,256 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:22:27,256 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:22:27,256 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:22:27,256 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:22:27,256 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:22:27,256 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:22:27,262 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:22:27,262 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:22:27,262 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:22:27,262 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:22:27,288 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:22:27,288 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:22:27,289 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:22:27,289 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:23:33,794 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:23:33,795 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:23:33,795 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:23:33,808 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:23:33,808 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:23:33,840 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:23:33,841 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:23:34,684 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:23:34,684 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:23:34,685 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:23:34,685 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:23:34,685 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:23:34,685 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:23:34,690 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:23:34,690 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:23:34,690 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:23:34,690 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:23:34,717 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:23:34,717 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:23:34,717 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:23:34,717 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:24:31,857 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: Tesla Stock Price
+2024-09-15 05:24:31,857 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: Tesla Stock Price
+2024-09-15 05:24:32,618 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:24:32,618 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:24:32,619 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:03,518 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:25:03,518 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:25:03,518 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:25:03,529 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:25:03,529 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:25:03,561 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:25:03,561 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:25:04,326 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:25:04,326 - GraphRAG - INFO - Starting to build graph
+2024-09-15 05:25:04,326 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:25:04,326 - GraphRAG - INFO - Loading existing graph
+2024-09-15 05:25:04,326 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:25:04,326 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 05:25:04,332 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:25:04,332 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 05:25:04,332 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:25:04,332 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 05:25:04,358 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:25:04,358 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 05:25:04,358 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:25:04,358 - GraphRAG - INFO - Graph building completed
+2024-09-15 05:25:07,885 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: Tesla Stock Price
+2024-09-15 05:25:07,885 - GraphRAG - DEBUG - Retrieving top 5 nodes for query: Tesla Stock Price
+2024-09-15 05:25:08,278 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:25:08,278 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:25:08,279 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,040 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, how's Tesla doing today?
+2024-09-15 05:35:43,040 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, how's Tesla doing today?
+2024-09-15 05:35:43,433 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:35:43,433 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 05:35:43,434 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 07:26:45,273 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, what was Apple's revenue to 2022 
+2024-09-15 07:26:45,273 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, what was Apple's revenue to 2022 
+2024-09-15 07:26:47,993 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 07:26:47,993 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 07:26:47,995 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 07:26:47,996 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 07:26:47,996 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 07:26:47,996 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 07:26:47,996 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 08:02:12,708 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:02:12,790 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:02:12,922 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:02:12,943 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:02:12,944 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:02:12,976 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:02:12,976 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:02:13,723 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:02:13,723 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:02:13,723 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:02:13,723 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:02:13,724 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:02:13,724 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:02:13,732 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:02:13,732 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:02:13,732 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:02:13,732 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:02:13,763 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:02:13,763 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:02:13,763 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:02:13,763 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:15,209 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:15,209 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:15,209 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:15,250 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:15,250 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:15,297 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:15,298 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:16,793 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:16,793 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:16,793 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:16,793 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:16,793 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:16,793 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:16,801 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:16,801 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:16,801 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:16,801 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:16,832 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:16,832 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:16,832 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:16,832 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:47,042 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:47,042 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:47,042 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:47,056 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:47,057 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:47,088 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:47,088 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:48,003 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:48,003 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:09:48,003 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:48,003 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:09:48,003 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:48,003 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:09:48,015 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:48,015 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:09:48,015 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:48,015 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:09:48,058 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:48,058 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:09:48,058 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:09:48,058 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:11:58,027 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What's Starbucks up to?
+2024-09-15 08:11:58,027 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What's Starbucks up to?
+2024-09-15 08:11:58,714 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:11:58,714 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:11:58,715 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:13:52,469 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:13:52,470 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:13:52,470 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:13:52,494 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:13:52,494 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:13:52,530 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:13:52,532 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:13:53,340 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:13:53,340 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:13:53,340 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:13:53,340 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:13:53,340 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:13:53,340 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:13:53,353 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:13:53,353 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:13:53,353 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:13:53,353 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:13:53,379 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:13:53,379 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:13:53,380 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:13:53,380 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:19,287 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:19,287 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:19,287 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:19,307 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:19,307 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:19,339 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:19,340 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:20,237 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:20,237 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:20,238 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:20,238 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:20,238 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:20,238 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:20,249 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:20,249 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:20,249 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:20,249 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:20,283 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:20,283 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:20,284 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:20,284 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:26,154 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:26,154 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:26,154 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:26,160 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:26,160 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:26,188 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:26,189 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:27,155 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:27,155 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:14:27,155 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:27,155 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:14:27,155 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:27,155 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:14:27,168 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:27,168 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:14:27,168 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:27,168 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:14:27,201 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:27,201 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:14:27,201 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:14:27,201 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:15:33,547 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What Starbucks up to
+2024-09-15 08:15:33,547 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What Starbucks up to
+2024-09-15 08:15:34,668 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:15:34,668 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,668 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,669 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:15:34,669 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:46,900 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What is Starbucks up to?
+2024-09-15 08:16:46,900 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  What is Starbucks up to?
+2024-09-15 08:16:47,166 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:16:47,166 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:16:47,167 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:18:29,488 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:18:29,488 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:18:29,488 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:18:29,501 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:18:29,501 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:18:29,529 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:18:29,530 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:18:30,276 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:18:30,276 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:18:30,277 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:18:30,277 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:18:30,277 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:18:30,277 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:18:30,284 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:18:30,284 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:18:30,284 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:18:30,284 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:18:30,311 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:18:30,311 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:18:30,312 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:18:30,312 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:19:05,187 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, do you think Apple's doing pretty good?  And I want to see Pie chart.  Just let me show some sort of detail.
+2024-09-15 08:19:05,187 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, do you think Apple's doing pretty good?  And I want to see Pie chart.  Just let me show some sort of detail.
+2024-09-15 08:19:05,715 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:19:05,715 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: financial_insights
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:19:05,716 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:17,420 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:21:17,421 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:21:17,421 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:21:17,441 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:21:17,441 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:21:17,486 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:21:17,487 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:21:18,372 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:21:18,372 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:21:18,373 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:21:18,373 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:21:18,373 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:21:18,373 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:21:18,380 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:21:18,380 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:21:18,380 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:21:18,380 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:21:18,410 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:21:18,410 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:21:18,411 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:21:18,411 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:21:26,493 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, shall we something interesting about Tesla?
+2024-09-15 08:21:26,493 - GraphRAG - DEBUG - Retrieving top 5 nodes for query:  Hey, shall we something interesting about Tesla?
+2024-09-15 08:21:27,022 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:21:27,022 - GraphRAG - INFO - Retrieved 1896 nodes
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:21:27,022 - GraphRAG - DEBUG - Getting node text for type: news
+2024-09-15 08:27:43,928 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:27:43,928 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:27:43,928 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:27:43,946 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:27:43,946 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:27:43,983 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:27:43,983 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:27:44,819 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:27:44,819 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:27:44,819 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:27:44,819 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:27:44,819 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:27:44,819 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:27:44,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:27:44,824 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:27:44,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:27:44,824 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:27:44,850 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:27:44,850 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:27:44,850 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:27:44,850 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:36:15,557 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:36:15,557 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:36:15,557 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:36:15,571 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:36:15,571 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:36:15,602 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:36:15,603 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:36:16,377 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:36:16,377 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:36:16,377 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:36:16,377 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:36:16,377 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:36:16,377 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:36:16,382 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:36:16,382 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:36:16,382 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:36:16,382 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:36:16,408 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:36:16,408 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:36:16,408 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:36:16,408 - GraphRAG - INFO - Graph building completed
+2024-09-15 08:37:04,935 - GraphRAG - INFO - Starting to build graph
+2024-09-15 08:37:04,935 - GraphRAG - INFO - Loading existing graph
+2024-09-15 08:37:04,935 - GraphRAG - DEBUG - Loading graph from pickle files
+2024-09-15 08:37:04,948 - GraphRAG - INFO - Graph loaded successfully
+2024-09-15 08:37:04,949 - GraphRAG - DEBUG - Saving graph to JSON file
+2024-09-15 08:37:04,977 - GraphRAG - INFO - Graph JSON saved successfully
+2024-09-15 08:37:04,978 - GraphRAG - INFO - Graph building completed

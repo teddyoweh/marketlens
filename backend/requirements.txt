@@ -1,0 +1,7 @@
+yfinance
+yahoo_fin
+pytickersymbols
+pyyaml
+matplotlib
+scikit-learn
+networkx

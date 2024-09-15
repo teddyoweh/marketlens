@@ -1,0 +1,875 @@
+{
+    "nodes": [
+      {
+        "id": "LIN",
+        "label": "Linde PLC",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 35.705254,
+            "Forward P/E": 27.38376,
+            "PEG Ratio": 3.15,
+            "Price to Book": 5.86335,
+            "Debt to Equity": 54.406,
+            "Return on Equity": 0.16193001,
+            "Return on Assets": 0.0675,
+            "Profit Margin": 0.19492
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Linde PLC is a leading player in the global industrial gases market.",
+              "Competitors like 3M (MMM), SSE, and CCL Industries have a solid presence in the market, which suggests a highly competitive environment.",
+              "Increasing demand for healthcare services and rise in applications of industrial gas in the healthcare industry are driving market growth.",
+              "The recent COVID-19 pandemic has increased the demand for medical gases, benefiting the likes of Linde PLC and its competitors.",
+              "Linde's innovation in technologies and product offerings, and its broad geographical footprint give it a competitive edge over its peers."
+            ],
+            "future_outlook": [
+              "Growing healthcare usage of industrial gases, and increasing demand in industries, such as food & beverage, metal fabrication, and chemical, is expected to drive growth in the future.",
+              "The advent of green, energy-efficient technologies and operations could pose challenges as well as opportunities to the players in the market.",
+              "Linde's commitment towards developing more efficient and environmentally friendly technologies is expected to provide growth potential in the long run.",
+              "The increasing shift towards the hydrogen economy and efforts towards carbon neutrality may also present ample growth opportunities for Linde PLC."
+            ]
+          }
+        }
+      },
+      {
+        "id": "CCL",
+        "label": "Carnival Corporation",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 24.30986,
+            "Forward P/E": 11.135485,
+            "PEG Ratio": 0.05,
+            "Price to Book": 3.2111628,
+            "Debt to Equity": 449.853,
+            "Return on Equity": 0.14244,
+            "Return on Assets": 0.03487,
+            "Profit Margin": 0.03853
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Despite the uncertainties brought by the COVID-19 pandemic, Carnival Corporation has managed to stay afloat with a slight increase in their stock value.",
+              "However, Carnival Corporation faces stiff competition from well-established competitors such as LIN, SSE, and MMM, which can drag its market growth.",
+              "The cruise industry, where Carnival Corporation operates, is slowly recovering from the massive impact of the pandemic but is not yet fully back to pre-COVID levels.",
+              "Government travel restrictions, change in customer behavior and rising fuel prices present challenges for Carnival and its competitors.",
+              "The company's market share has diminished slightly due to the emergence of new players in the market."
+            ],
+            "future_outlook": [
+              "As the rollout of vaccines continues around the globe, travel restrictions are expected to ease, presenting opportunities for growth for Carnival Corporation and its competitors.",
+              "The corporation's long term financial health, however, will rely heavily on its ability to attract and retain customers post-pandemic.",
+              "Investment in sustainable fuel sources could benefit Carnival in the long term by reducing operational costs.",
+              "Cruise industry is expected to bounce back in 2022, which means increased potential for revenue for Carnival.",
+              "Diversification of services could also help expand Carnival's market base and revenue."
+            ]
+          }
+        }
+      },
+      {
+        "id": "SSE",
+        "label": "STERIS PLC",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": "N/A",
+            "Forward P/E": "N/A",
+            "PEG Ratio": "N/A",
+            "Price to Book": "N/A",
+            "Debt to Equity": "N/A",
+            "Return on Equity": "N/A",
+            "Return on Assets": "N/A",
+            "Profit Margin": "N/A"
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "STERIS PLC operates in a stable industry geared towards infection prevention, contamination control, surgical and critical care technologies.",
+              "Despite the overall volatility caused by the ongoing pandemic, the healthcare sector wherein STERIS operates in, has been largely resilient.",
+              "STERIS's strong market position is supported by its diversified product portfolio and consistent performance.",
+              "LIN, a competitor in the industrial gas provision, has been growing steadily due to increased demand in the healthcare sector.",
+              "MMM, another competitor, has seen a boost during the pandemic thanks to their masks and protective gear but may face challenges once the pandemic ends.",
+              "BA, however, is in the aerospace industry and is not a direct competitor of STERIS. Uncertainties in the airline industry due to the pandemic has affected its performance negatively."
+            ],
+            "future_outlook": [
+              "As demand for sterile and infection prevention methods increase due to the ongoing health crisis, STERIS is projected to benefit significantly.",
+              "Expect moderate growth for LIN due to the steady demand for industrial gases.",
+              "MMM's future performance may decline post-pandemic but its diverse product range could provide some form of cushion during the transition.",
+              "BA's outlook will largely depend on the recovery of the air travel industry which, although slow, is expected to rebound eventually."
+            ]
+          }
+        }
+      },
+      {
+        "id": "MMM",
+        "label": "3M Company",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 51.82101,
+            "Forward P/E": 16.879593,
+            "PEG Ratio": -4.65,
+            "Price to Book": 18.684063,
+            "Debt to Equity": 345.812,
+            "Return on Equity": 0.24314,
+            "Return on Assets": 0.07516,
+            "Profit Margin": 0.02891
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "3M has a strong market presence in diversified technology, health care, safety and consumer products.",
+              "The company is facing competition from LIN, SSE, BA in different segments. While 3M holds a strong market share, competitors are also not far behind.",
+              "One of the main competitors, LIN, performs strongly in the industrial gas segment, posing a significant threat to 3M's industrial productivity.",
+              "SSE\u2019s expertise in energy management and its increasing market share in the renewable energy sector could potentially draw some business away from 3M's energy-related segments.",
+              "BA\u2019s domination in the aerospace industry poses direct competition to 3M's aerospace and transportation sector.",
+              "The overall market for such diversified portfolios is quite volatile due to various global factors including economic conditions, governmental regulations, and consumer behavior."
+            ],
+            "future_outlook": [
+              "3M company's future outlook remains positive due to its continuous research and improvement effort, creating advanced products that cater to various industries.",
+              "The company's strong focus on R&D sets it apart from its competitors and is likely to fuel future growth.",
+              "The rising demand for health care and safety products, due to the ongoing pandemic thing, points towards strong future growth in these segments.",
+              "However, with tougher competition in the energy sector from companies like SSE and in the industrial sector from companies like LIN, 3M needs to constantly innovate and expand its product line.",
+              "Investments in sustainable and renewable energy solutions and focus on environmental, social, and governance (ESG) policies could also help 3M build a competitive edge in the future."
+            ]
+          }
+        }
+      },
+      {
+        "id": "AXP",
+        "label": "American Express Company",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 19.342793,
+            "Forward P/E": 17.347622,
+            "PEG Ratio": 1.26,
+            "Price to Book": 6.2426186,
+            "Debt to Equity": 180.044,
+            "Return on Equity": 0.34977,
+            "Return on Assets": 0.038039997,
+            "Profit Margin": 0.16927
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "American Express Company has seen a consistent increase in Net Income from 2019 Q3 to 2020 Q2, due in part to reduced expenses.",
+              "There is increased consumer spending in 2020, which benefitted credit card companies like American Express.",
+              "Despite the pandemic, the credit card industry is strong as people are relying more on digital payments.",
+              "American Express's main competitors -CCL, AAPL, and BA- are also performing well, showing strength in the overall sector.",
+              "However, amid the pandemic, travel-related spending, a strong revenue source for American Express, has been negatively impacted.",
+              "There is a decrease in the company\u2019s loan and card fee revenue due to COVD-19 induced economic scenario.",
+              "Apple Inc (AAPL) with its Apple Card presents a potential threat to American Express in attracting tech-savvy, younger generation customers."
+            ],
+            "future_outlook": [
+              "American Express is expected to capitalize on the post-pandemic economic recovery, particularly as travel and related spending rebounds.",
+              "The growth in digital and contactless payments trends is likely to further benefit American Express in the future.",
+              "However, competition from tech companies like Apple and traditional competitors, may impact market share.",
+              "The company will likely have to increase its digital offerings and personalization to compete with fintech firms.",
+              "American Express's efforts to diversify its revenues - by targeting small businesses, expanding the global business, and building out its digital capabilities - should boost the company\u2019s future profits."
+            ]
+          }
+        }
+      },
+      {
+        "id": "AAPL",
+        "label": "Apple Inc.",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 33.917683,
+            "Forward P/E": 29.745989,
+            "PEG Ratio": 3.0,
+            "Price to Book": 50.7759,
+            "Debt to Equity": 151.862,
+            "Return on Equity": 1.60583,
+            "Return on Assets": 0.22612,
+            "Profit Margin": 0.26441
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Apple Inc. continues to excel in the technology industry, maintaining a dominant position in the market.",
+              "Apple Inc.'s main competitors, such as BA (Boeing), CSCO (Cisco Systems), and MMM (3M), are not directly in the smartphone or computer industry but are prominent in the broader tech industry.",
+              "Boeing (BA) primarily operates in the aerospace industry and is not a direct competitor for Apple Inc.",
+              "Cisco Systems (CSCO) is a key player in the networking hardware industry. While they do not directly compete with Apple in terms of products, they are part of the broader tech industry.",
+              "3M (MMM), a multinational conglomerate corporation, operates in various industries. Though 3M and Apple Inc. are both tech-based companies, their product offerings are vastly different.",
+              "Despite being in the tech industry, neither BA, CSCO, nor MMM compete directly with Apple on its primary products.",
+              "Apple Inc.'s main competitors in its primary markets are other tech giants like Samsung, Huawei, and Google."
+            ],
+            "future_outlook": [
+              "Apple Inc.'s future outlook remains strong, with steady growth projected in its core product areas.",
+              "Plans for product innovation and expansion into new markets, like the electric car market, propose a successful future for Apple Inc.",
+              "Given Apple's robust ecosystem, product innovation, and strong brand loyalty, it is likely to maintain or even increase its market share in the future.",
+              "Competitors BA, CSCO, and MMM are expected to continue operating in their respective industries, posing limited direct threat to Apple Inc.",
+              "However, future challenges for Apple Inc. might come from other tech giants who are investing in the same technology and potential market spaces as Apple."
+            ]
+          }
+        }
+      },
+      {
+        "id": "BA",
+        "label": "The Boeing Company",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": "N/A",
+            "Forward P/E": 39.488667,
+            "PEG Ratio": -0.16,
+            "Price to Book": "N/A",
+            "Debt to Equity": "N/A",
+            "Return on Equity": "N/A",
+            "Return on Assets": -0.00229,
+            "Profit Margin": -0.04678
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Boeing (BA) is currently facing numerous product and operational challenges, further exacerbated by ongoing pandemic-related issues.",
+              "Many airlines around the world have reduced their operations, promptly affecting orders for new aircrafts from Boeing.",
+              "Competitors Lockheed Martin Corp. (LIN), 3M Co. (MMM), and Caterpillar Inc. (CAT), operating in slightly different niches of the industry, are observing slightly different market conditions. Lockheed appears to be stable due to steady defense contracts, MMM is experiencing increasing demand with the escalating need for healthcare segment products, while Caterpillar is navigating through the global decrease in construction projects.",
+              "Overall, the aerospace and defense industry is experiencing a downturn due to impacts of the global pandemic, economic slowdown, and reduced defense spending in some areas."
+            ],
+            "future_outlook": [
+              "With the roll out of vaccines and the potential normalcy in travel, demand for new aircraft may rise, aiding Boeing's recovery.",
+              "Economic recovery may drive construction and manufacturing activities, which may benefit Caterpillar and 3M respectively.",
+              "Lockheed Martin/'s future outlook appears stable due to steady defense contracts.",
+              "Long-term forecasts indicate a likely upturn for the aerospace and defense industry as global conditions stabilize."
+            ]
+          }
+        }
+      },
+      {
+        "id": "CAT",
+        "label": "Caterpillar Inc.",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 15.74601,
+            "Forward P/E": 15.026545,
+            "PEG Ratio": 2.89,
+            "Price to Book": 9.774676,
+            "Debt to Equity": 217.735,
+            "Return on Equity": 0.62167,
+            "Return on Assets": 0.10467,
+            "Profit Margin": 0.16584998
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Caterpillar Inc. is facing stiff competition from companies like BA, MMM, and LIN which have significant market share.",
+              "There is a rise in infrastructure projects globally, increasing the demand for construction and mining equipment provided by Caterpillar Inc. and its competitors.",
+              "Caterpillar Inc. is diversified across various sectors and regions which mitigates business risks.",
+              "The industry is currently heavily affected by the restructuring in the global supply chain that is caused by the COV-19 pandemic.",
+              "There are concerns over rising steel prices which may affect the production costs of Caterpillar Inc. and its competitors."
+            ],
+            "future_outlook": [
+              "The steady recovery from the COVID-19 pandemic is likely to improve the business environment for Caterpillar Inc. and its competitors.",
+              "Increased calls for green and sustainable infrastructure could influence the future product development pipeline for these companies.",
+              "In the longer term, global increases in urbanization and infrastructure spending could be major growth drivers.",
+              "Ongoing volatility in raw materials prices may affect future earnings."
+            ]
+          }
+        }
+      },
+      {
+        "id": "CVX",
+        "label": "Chevron Corporation",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 13.921782,
+            "Forward P/E": 10.532584,
+            "PEG Ratio": 3.39,
+            "Price to Book": 1.6150188,
+            "Debt to Equity": 14.466,
+            "Return on Equity": 0.11761,
+            "Return on Assets": 0.06036,
+            "Profit Margin": 0.09593
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Chevron Corporation is currently dealing with fluctuating commodity prices which is affecting its revenue",
+              "There is growing environmental concern over fossil fuels which is driving a sector-wide shift towards renewable energy",
+              "The recent economic downturn has caused reduced demand for energy which is affecting Chevron and its competitors",
+              "In comparison to its competitors, Chevron is performing relatively well. It has a stronger balance sheet than LIN, BA and CAT, displaying more considerable liquidity and lower total debt",
+              "Chevron's profitability and efficiency metrics are also better than its competitors, indicating superior operational performance"
+            ],
+            "future_outlook": [
+              "Chevron's future outlook is tightly linked to global economic recovery, as energy demand is expected to rebound",
+              "With its shift towards renewable energy, Chevron is expected to capitalize on the green energy trend in the future",
+              "The company's solid financial health and robust operational performance will help it withstand the potential industry and economic challenges",
+              "Increased exploration and production activities as well as cost reduction measures are expected to boost Chevron's future performance",
+              "Market trends suggest that demand for oil and gas will continue to be robust, especially in emerging economies, benefiting Chevron in the future"
+            ]
+          }
+        }
+      },
+      {
+        "id": "CSCO",
+        "label": "Cisco Systems Inc.",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 19.606298,
+            "Forward P/E": 12.835051,
+            "PEG Ratio": 3.44,
+            "Price to Book": 4.389986,
+            "Debt to Equity": 70.931,
+            "Return on Equity": 0.22982,
+            "Return on Assets": 0.072230004,
+            "Profit Margin": 0.19181
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Cisco Systems Inc. shows steady revenue growth with a positive net income.",
+              "The current market is competitive with large companies such as LIN, AAPL, and MMM having a significant share.",
+              "Cisco faces strong competition from AAPL in technology and software services.",
+              "The overall technology market has seen a surge due to increased demand for telecommunication and technology services amid the pandemic.",
+              "Cisco Systems Inc., however, is facing growth challenges in certain regions due to regulatory issues.",
+              "Despite the competitive market, Cisco has managed to maintain a relatively high market share in the industry."
+            ],
+            "future_outlook": [
+              "Cisco Systems Inc. is expected to continue its steady growth, given its wide range of products and services.",
+              "Increasing demand for cloud-computing and cybersecurity services are likely to provide potential growth opportunities for Cisco.",
+              "The company is expected to face continued competition from its rivals, thus needs to focus on innovation and product development.",
+              "Emerging markets and economies are seen to provide growth opportunities for Cisco Systems."
+            ]
+          }
+        }
+      },
+      {
+        "id": "KO",
+        "label": "The Coca-Cola Company",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 29.028456,
+            "Forward P/E": 23.567657,
+            "PEG Ratio": 4.12,
+            "Price to Book": 11.901668,
+            "Debt to Equity": 164.398,
+            "Return on Equity": 0.38772,
+            "Return on Assets": 0.086490005,
+            "Profit Margin": 0.22916001
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Coca-Cola Company dominates the beverage industry with a significant market share globally.",
+              "Overall, the non-alcoholic beverages market is competitive, with CCL (Carnival Plc), MMM (3M Company), and BA (Boeing Company) being potential competitors.",
+              "Current economic uncertainties such as inflation and global unrest may present tough scenarios for Coca-Cola and its competition.",
+              "The COVID-19 pandemic has negatively affected the whole beverage industry due to lockdowns and restrictions.",
+              "Due to health consciousness, consumers are shifting towards healthy drinks and less sugar content beverages impacting all companies in this industry.",
+              "Coca-Cola maintains a strong brand presence which gives them a competitive edge over other companies."
+            ],
+            "future_outlook": [
+              "The global market for non-alcoholic beverages is expected to grow in the future, providing opportunities for all companies including Coca-Cola.",
+              "Shifting consumer trends towards healthier options may require Coca-Cola and its competitors to innovate and tailor their product range.",
+              "Companies that prioritize sustainability and environmentally friendly processes might gain a competitive advantage in the future market.",
+              "Technological advancements will continue to provide opportunities for optimized production and better consumer reach."
+            ]
+          }
+        }
+      },
+      {
+        "id": "DOW",
+        "label": "Dow Inc.",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 30.95679,
+            "Forward P/E": 13.373334,
+            "PEG Ratio": 0.85,
+            "Price to Book": 1.9189562,
+            "Debt to Equity": 94.638,
+            "Return on Equity": 0.062480003,
+            "Return on Assets": 0.02784,
+            "Profit Margin": 0.026770001
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Dow Inc. currently holds a strong position in the market with stable growth.",
+              "Competitor MMM also performs consistently with marginal difference in terms of market share.",
+              "BA is experiencing instability due to reduced demands in the aeronautics sector amid global uncertainty.",
+              "CAT is leading in the construction industry, benefiting from the global infrastructural development surge."
+            ],
+            "future_outlook": [
+              "Dow Inc. is expected to maintain its steady growth with potential for higher market influence through strategic investments.",
+              "MMM may see an acceleration in growth if it manages to tap into emerging markets.",
+              "BA's future prognosis remains volatile; recovery relies heavily on the revival of global travel and trade.",
+              "CAT's outlook appears positive given the ongoing global push for infrastructural development and urbanization."
+            ]
+          }
+        }
+      },
+      {
+        "id": "XOM",
+        "label": "Exxon Mobil Corporation",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 13.295455,
+            "Forward P/E": 12.121047,
+            "PEG Ratio": 2.51,
+            "Price to Book": 1.8398359,
+            "Debt to Equity": 15.632,
+            "Return on Equity": 0.1469,
+            "Return on Assets": 0.07355,
+            "Profit Margin": 0.098979995
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "Exxon Mobil Corporation has experienced significant losses due to the global drop in demand for oil amid the COVID-19 pandemic.",
+              "CVX, BA, and CAT also had a decrease in their stock prices due to the ongoing global crisis.",
+              "Ongoing disputes in oil prices and oil production cuts continue to impact the industry,including Exxon and its competitors CVX, BA, CAT.",
+              "Exxon's operations have been significantly affected by environmental regulations and policies.",
+              "Exxon and competitive companies are also affected by geopolitical tensions and conflicts, particularly in oil-rich regions.",
+              "Renewable energy sources and electric vehicles are posing a serious competition to Exxon as well as its rivals: CVX, BA, CAT.",
+              "Exxon and its major competitors face significant potential liabilities related to climate change, particularly due to rising pressures from investors, regulations, and societal expectations."
+            ],
+            "future_outlook": [
+              "Exxon is expected to continue derivative investments in renewable energy, echoing similar moves by its competitors.",
+              "As the demand for oil is expected to bounce back post-COVID, Exxon and its industry peers may observe a recovery in their revenues and stock prices.",
+              "Long-term impacts of the COVID-19 pandemic on the global economy and changes in consuming behaviors could contribute to ongoing uncertainties.",
+              "Adoption of new technologies and digitalization can present opportunities for Exxon and its competitors in terms of cost-efficiency and innovation.",
+              "Geopolitical uncertainties and potential environmental regulations pose risks to Exxon's future profitability.",
+              "Exxon's long-term sustainability could be challenged by the global trend of transitioning to more sustainable and cleaner energy sources.",
+              "Enhancing environmental, social, and governance (ESG) execution and further investing in renewable energies will be vital to stay competitive and sustainable in the future market."
+            ]
+          }
+        }
+      },
+      {
+        "id": "GS",
+        "label": "The Goldman Sachs Group Inc.",
+        "group": 0,
+        "attributes": {
+          "pc1": 0,
+          "pc2": 0,
+          "financial_ratios": {
+            "P/E Ratio": 15.362091,
+            "Forward P/E": 11.4893265,
+            "PEG Ratio": 0.49,
+            "Price to Book": 1.4969373,
+            "Debt to Equity": 585.382,
+            "Return on Equity": 0.0949,
+            "Return on Assets": 0.0069700005,
+            "Profit Margin": 0.2299
+          },
+          "market_analysis": {
+            "market_conditions": [
+              "The Goldman Sachs Group Inc. is currently recording strong revenues, particularly in their investment banking and trading segments.",
+              "There's an increased demand for wealth management and strategic advisory services which directly benefits Goldman Sachs.",
+              "The company's capital ratios are high, indicating a strong balance sheet.",
+              "Rival American Express (AXP) is also posting competitive returns in the credit card industry, which may imply market-share competition.",
+              "Strong commercial demand benefits Boeing (BA) and can affect related financial service providers.",
+              "3M (MMM) is performing relatively well, with a diversified product range which affects the overall market dynamics in its industries."
+            ],
+            "future_outlook": [
+              "Goldman Sachs is expected to continue to benefit from increased M&A activity and a robust capital market environment.",
+              "Risks for Goldman Sachs lie in potential regulatory changes, geopolitical uncertainties and potential loan losses due to Covid-19 pandemic recovery efforts.",
+              "American Express (AXP) could face challenges due to increased competition in the card industry as new technologies evolve.",
+              "Boeing's (BA) future outlook is clouded by uncertainties in commercial aerospace demand and ongoing regulatory scrutiny.",
+              "For 3M (MMM), future growth could be driven by its diversified product range although manufacturing costs and raw material prices are concerns."
+            ]
+          }
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LIN",
+        "target": "CCL",
+        "type": "competitor"
+      },
+      {
+        "source": "LIN",
+        "target": "SSE",
+        "type": "competitor"
+      },
+      {
+        "source": "LIN",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "CCL",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "CCL",
+        "target": "SSE",
+        "type": "competitor"
+      },
+      {
+        "source": "CCL",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "SSE",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "SSE",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "SSE",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "MMM",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "MMM",
+        "target": "SSE",
+        "type": "competitor"
+      },
+      {
+        "source": "MMM",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "AXP",
+        "target": "CCL",
+        "type": "competitor"
+      },
+      {
+        "source": "AXP",
+        "target": "AAPL",
+        "type": "competitor"
+      },
+      {
+        "source": "AXP",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "AAPL",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "AAPL",
+        "target": "CSCO",
+        "type": "competitor"
+      },
+      {
+        "source": "AAPL",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "BA",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "BA",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "BA",
+        "target": "CAT",
+        "type": "competitor"
+      },
+      {
+        "source": "CAT",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "CAT",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "CAT",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "CVX",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "CVX",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "CVX",
+        "target": "CAT",
+        "type": "competitor"
+      },
+      {
+        "source": "CSCO",
+        "target": "LIN",
+        "type": "competitor"
+      },
+      {
+        "source": "CSCO",
+        "target": "AAPL",
+        "type": "competitor"
+      },
+      {
+        "source": "CSCO",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "KO",
+        "target": "CCL",
+        "type": "competitor"
+      },
+      {
+        "source": "KO",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "KO",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "DOW",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "DOW",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "DOW",
+        "target": "CAT",
+        "type": "competitor"
+      },
+      {
+        "source": "XOM",
+        "target": "CVX",
+        "type": "competitor"
+      },
+      {
+        "source": "XOM",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "XOM",
+        "target": "CAT",
+        "type": "competitor"
+      },
+      {
+        "source": "GS",
+        "target": "AXP",
+        "type": "competitor"
+      },
+      {
+        "source": "GS",
+        "target": "BA",
+        "type": "competitor"
+      },
+      {
+        "source": "GS",
+        "target": "MMM",
+        "type": "competitor"
+      },
+      {
+        "source": "LIN",
+        "target": "CCL",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "LIN",
+        "target": "SSE",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "LIN",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CCL",
+        "target": "LIN",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CCL",
+        "target": "SSE",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CCL",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "SSE",
+        "target": "LIN",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "SSE",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "SSE",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "MMM",
+        "target": "LIN",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "MMM",
+        "target": "SSE",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "MMM",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "AXP",
+        "target": "CCL",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "AXP",
+        "target": "AAPL",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "AXP",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "BA",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "BA",
+        "target": "CAT",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CAT",
+        "target": "LIN",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CAT",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CAT",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "CSCO",
+        "target": "AAPL",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "KO",
+        "target": "CCL",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "KO",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "KO",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "DOW",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "DOW",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "DOW",
+        "target": "CAT",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "XOM",
+        "target": "BA",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "XOM",
+        "target": "CAT",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "XOM",
+        "target": "CVX",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "GS",
+        "target": "MMM",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "GS",
+        "target": "AXP",
+        "type": "strategic_relation"
+      },
+      {
+        "source": "GS",
+        "target": "BA",
+        "type": "strategic_relation"
+      }
+    ]
+  }

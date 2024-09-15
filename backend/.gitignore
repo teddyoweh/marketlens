@@ -1,0 +1,13 @@
+.base/
+node_modules/
+.env/
+.venv/
+myenv/
+venv/
+chromedriver
+./config.py
+backend/config.py
+
+./base_api/config.py
+backend/__pycache__
+*config*
